@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because in sorted list no is the faster, but if don't make changes have a good running time
+
+sort2 uses: Merge Sort
+
+How do you know?: It's the faster in all execution, it has a logarithmically shorter execution time
+
+sort3 uses: Selection Sort
+
+How do you know?: Always is O(n²). In random have a little smaller running time, but in general is the slower
