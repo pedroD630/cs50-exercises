@@ -1,0 +1,2 @@
+1. We can calculate the average energy, valence and danceability of the user's top 100 songs that will be in the database. This way we can calculate the average of the 3 results to obtain the “aura”
+2. Maybe if the result is a number it might be boring for the user, so we can use the final average to blur an image (like Spotify seems to do and like we did in C) and show the image in our application
